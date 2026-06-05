@@ -96,14 +96,11 @@ QA Engineer Jr | Software Tester | Quality Assurance
 </div>
 
 ---
-
 ## 🐍 Snake das Contribuições
 
-<div align="center">
-
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://github.com/Dayvson-Silva/Dayvson-Silva/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 

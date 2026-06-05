@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Dayvson Silva 👋</h1>
 
 <h3 align="center">
-QA Engineer Jr | Software Tester | Quality Assurance
+QA Analyst Jr | Software Tester | Cypress | Postman
 </h3>
 
 <p align="center">
@@ -32,6 +32,7 @@ QA Engineer Jr | Software Tester | Quality Assurance
 
 <p>
 <img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 </p>
@@ -52,16 +53,16 @@ QA Engineer Jr | Software Tester | Quality Assurance
 
 ---
 
-## 📚 Atualmente Estudando
+## 🚀 Projetos em Destaque
 
-- Automação de Testes com Cypress
-- Testes de API com Postman
-- SQL para QA
-- Scrum
-- Kanban
-- Testes Exploratórios
-- Testes Funcionais
-- Testes E2E
+### 🧪 Automação Web com Cypress
+Projeto de automação E2E utilizando Cypress com validações de login, cadastro e fluxo de usuário.
+
+### 🔗 Testes de API com Postman
+Coleções, ambientes e validações automatizadas para APIs REST.
+
+### 📊 Estudos de SQL para QA
+Consultas e cenários voltados para validação de dados e testes em banco.
 
 ---
 
@@ -72,6 +73,11 @@ QA Engineer Jr | Software Tester | Quality Assurance
 ✅ Testes de API com Postman
 
 ✅ Fundamentos de Quality Assurance
+
+📚 Estudando:
+- SQL para Testes
+- Cypress Avançado
+- Boas Práticas de QA
 
 ---
 

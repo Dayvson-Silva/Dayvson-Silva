@@ -8,7 +8,7 @@ QA Analyst Jr | Software Tester | Cypress | Postman
   Apaixonado por tecnologia, qualidade de software e automação de testes.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=200&section=header&text=Dayvson%20Pereira&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=200&section=header&text=Dayvson%20Silva&fontSize=40&fontColor=ffffff"/>
 
 ---
 

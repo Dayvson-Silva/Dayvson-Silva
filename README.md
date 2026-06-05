@@ -1,23 +1,161 @@
-## Bem-vindo(a) ao perfil do Dayvson Silva  😁
+<h1 align="center">Olá, eu sou Dayvson Silva 👋</h1>
 
- <div>
-   <a href="https://github.com/Dayvson-Silva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvsonSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvsonsilva&layout=compact&langs_count=6&theme=tokyonight"/>
+<h3 align="center">
+QA Engineer Jr | Software Tester | Quality Assurance
+</h3>
+
+<p align="center">
+  Apaixonado por tecnologia, qualidade de software e automação de testes.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=200&section=header&text=Dayvson%20Pereira&fontSize=40&fontColor=ffffff"/>
+
+---
+
+## 🚀 Sobre Mim
+
+🎯 Em transição para a área de Quality Assurance (QA)
+
+📚 Estudando Automação de Testes, APIs, SQL e Metodologias Ágeis
+
+💻 Desenvolvendo projetos com foco em qualidade de software
+
+🔍 Apaixonado por encontrar falhas antes dos usuários
+
+🚀 Buscando oportunidade como QA Júnior
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Testes
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+### Desenvolvimento
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+- Automação de Testes com Cypress
+- Testes de API com Postman
+- SQL para QA
+- Scrum
+- Kanban
+- Testes Exploratórios
+- Testes Funcionais
+- Testes E2E
+
+---
+
+## 🏆 Certificações
+
+✅ Automação de Testes com Cypress
+
+✅ Testes de API com Postman
+
+✅ Fundamentos de Quality Assurance
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
+
 </div>
- 
-<br>
- 
-### Um Desemvolvedor em formação Fullstack 
- 
-<div>
-  <a href="https://instagram.com/dayvsonsilva05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+---
+
+## 🐍 Snake das Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+---
+
+## 🎯 Objetivos para 2026
+
+- Conseguir minha primeira oportunidade como QA
+- Aprimorar automação com Cypress
+- Aprender Playwright
+- Aprofundar SQL para testes
+- Contribuir para projetos Open Source
+- Evoluir continuamente na área de Qualidade de Software
+
+---
+
+## 📫 Contato
+
+📧 Email: **dayvsonsilva681@gmail.com**
+
+💼 LinkedIn:
+https://linkedin.com/in/dayvson-silva-380382312
+
+🐙 GitHub:
+https://github.com/dayvson-silva
+
+---
+
+## 💡 Frase que me guia
+
+> "Qualidade não é um ato, é um hábito." — Aristóteles
+
+---
+
+<div align="center">
+
+### 👨‍💻 QA Engineer em Formação
+
+Especializado em:
+
+✅ Testes Manuais
+
+✅ Testes de API
+
+✅ Automação com Cypress
+
+✅ SQL
+
+✅ Metodologias Ágeis
+
+✅ Controle de Qualidade de Software
+
+🚀 Em busca da primeira oportunidade para transformar qualidade em resultados.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=120&section=footer"/>
